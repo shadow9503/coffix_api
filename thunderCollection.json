@@ -1,0 +1,38 @@
+[
+  {
+    "_id": "871dc665-0d3f-4b51-9c87-db9c34580ff1",
+    "colName": "COFFIX",
+    "created": "2022-09-17T14:37:56.241Z",
+    "sortNum": 10000,
+    "folders": [
+      {
+        "_id": "e2f4fba0-3739-4559-82a9-f7fe86ed5d48",
+        "name": "as_requests",
+        "containerId": "",
+        "created": "2022-09-17T14:37:56.243Z",
+        "sortNum": 10000
+      },
+      {
+        "_id": "87846d54-46a0-421a-a654-2e5736020644",
+        "name": "signup",
+        "containerId": "",
+        "created": "2022-09-17T14:37:56.244Z",
+        "sortNum": 20000
+      },
+      {
+        "_id": "1452b238-fda4-4b8b-b264-1ac31eeef87e",
+        "name": "as_estimates",
+        "containerId": "",
+        "created": "2022-09-17T14:37:56.245Z",
+        "sortNum": 30000
+      },
+      {
+        "_id": "ce9b3347-04d2-447c-b193-d6abb7e0ead4",
+        "name": "as_reviews",
+        "containerId": "",
+        "created": "2022-09-17T14:37:56.246Z",
+        "sortNum": 40000
+      }
+    ]
+  }
+]
