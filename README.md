@@ -7,7 +7,7 @@
 
 1. thunder client extension 설치
 2. -> extension setting
-3. <img width="1000" height="150" alt="image" src="https://user-images.githubusercontent.com/33388081/190884988-d5bb32a3-3f92-4905-8f15-7764e29d791a.png">
+<img width="1000" height="150" alt="image" src="https://user-images.githubusercontent.com/33388081/190884988-d5bb32a3-3f92-4905-8f15-7764e29d791a.png">
 4. Save To Workspace 체크
 5. 작업 WorkSpace내에서 git clone
 6. 예상 folder tree
