@@ -10,7 +10,7 @@
 <img width="1000" height="150" alt="image" src="https://user-images.githubusercontent.com/33388081/190884988-d5bb32a3-3f92-4905-8f15-7764e29d791a.png">
 3. Save To Workspace 체크
 4. 작업 WorkSpace내에서 git clone
-5.예상 folder tree
+5. 예상 folder tree
 - workspace
   - file1
   - file2
