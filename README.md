@@ -1,7 +1,8 @@
 # coffix_api
 
-### vscode thunder client extension으로 공유 하기위한 git
-
+### need
+- vscode
+- thunder client extension
 
 ### guide
 
