@@ -6,5 +6,5 @@
 ### guide
 
 1. thunder client extension 설치
-2. -> extension setting
-  a. <img width="700" height="300" alt="image" src="https://user-images.githubusercontent.com/33388081/190884988-d5bb32a3-3f92-4905-8f15-7764e29d791a.png">
+-> extension setting
+2. <img height="300" alt="image" src="https://user-images.githubusercontent.com/33388081/190884988-d5bb32a3-3f92-4905-8f15-7764e29d791a.png">
